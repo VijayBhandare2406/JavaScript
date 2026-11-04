@@ -25,7 +25,7 @@ const myArray2 = new Array(1,2,3,4)
  
 
 //slice, splice
-const myn1 = myArray.slice(1, 3)
+const myn1 = myArray.slice(1, 4)
 
 console.log("A ", myArray);
 
