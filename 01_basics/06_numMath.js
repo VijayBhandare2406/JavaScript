@@ -29,8 +29,8 @@ const hundreds = 1000000
 // console.log(Math.random() * 10 + 1); // multiply by 10 for shift value
 // console.log(Math.random() * 10 + 1); // given values between 1 to 9
 
-const min = 10
-const max = 20
+const min = 20
+const max = 50
 
 console.log(Math.floor(Math.random() * (min - max + 1)) + min);
 
